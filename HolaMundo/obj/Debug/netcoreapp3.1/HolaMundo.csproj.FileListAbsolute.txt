@@ -1,0 +1,13 @@
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.exe
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.deps.json
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.runtimeconfig.json
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.runtimeconfig.dev.json
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.dll
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.pdb
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.dll
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.pdb
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.genruntimeconfig.cache
