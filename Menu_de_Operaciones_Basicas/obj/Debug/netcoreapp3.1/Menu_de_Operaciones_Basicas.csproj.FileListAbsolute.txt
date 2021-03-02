@@ -1,0 +1,13 @@
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\Menu_de_Operaciones_Basicas\bin\Debug\netcoreapp3.1\Menu_de_Operaciones_Basicas.exe
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\Menu_de_Operaciones_Basicas\bin\Debug\netcoreapp3.1\Menu_de_Operaciones_Basicas.deps.json
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\Menu_de_Operaciones_Basicas\bin\Debug\netcoreapp3.1\Menu_de_Operaciones_Basicas.runtimeconfig.json
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\Menu_de_Operaciones_Basicas\bin\Debug\netcoreapp3.1\Menu_de_Operaciones_Basicas.runtimeconfig.dev.json
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\Menu_de_Operaciones_Basicas\bin\Debug\netcoreapp3.1\Menu_de_Operaciones_Basicas.dll
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\Menu_de_Operaciones_Basicas\bin\Debug\netcoreapp3.1\Menu_de_Operaciones_Basicas.pdb
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\Menu_de_Operaciones_Basicas\obj\Debug\netcoreapp3.1\Menu_de_Operaciones_Basicas.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\Menu_de_Operaciones_Basicas\obj\Debug\netcoreapp3.1\Menu_de_Operaciones_Basicas.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\Menu_de_Operaciones_Basicas\obj\Debug\netcoreapp3.1\Menu_de_Operaciones_Basicas.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\Menu_de_Operaciones_Basicas\obj\Debug\netcoreapp3.1\Menu_de_Operaciones_Basicas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\Menu_de_Operaciones_Basicas\obj\Debug\netcoreapp3.1\Menu_de_Operaciones_Basicas.dll
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\Menu_de_Operaciones_Basicas\obj\Debug\netcoreapp3.1\Menu_de_Operaciones_Basicas.pdb
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\Menu_de_Operaciones_Basicas\obj\Debug\netcoreapp3.1\Menu_de_Operaciones_Basicas.genruntimeconfig.cache
