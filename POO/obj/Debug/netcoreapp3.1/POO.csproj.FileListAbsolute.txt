@@ -1,0 +1,13 @@
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\POO\bin\Debug\netcoreapp3.1\POO.exe
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\POO\bin\Debug\netcoreapp3.1\POO.deps.json
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\POO\bin\Debug\netcoreapp3.1\POO.runtimeconfig.json
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\POO\bin\Debug\netcoreapp3.1\POO.runtimeconfig.dev.json
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\POO\bin\Debug\netcoreapp3.1\POO.dll
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\POO\bin\Debug\netcoreapp3.1\POO.pdb
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\POO\obj\Debug\netcoreapp3.1\POO.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\POO\obj\Debug\netcoreapp3.1\POO.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\POO\obj\Debug\netcoreapp3.1\POO.dll
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\POO\obj\Debug\netcoreapp3.1\POO.pdb
+C:\Users\USUARIO\Documents\Git\Proyectos_C-\POO\obj\Debug\netcoreapp3.1\POO.genruntimeconfig.cache
